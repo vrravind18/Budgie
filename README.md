@@ -1,2 +1,2 @@
 # Budgie
-Visualise personal finances
+Visualise your personal finances
